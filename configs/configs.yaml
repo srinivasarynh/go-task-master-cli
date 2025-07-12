@@ -1,0 +1,6 @@
+database:
+  path: ~/.taskmaster/tasks.db
+
+logging:
+  level: info
+  file: ~/.taskmaster/taskmaster.log
